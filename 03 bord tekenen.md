@@ -62,6 +62,7 @@ Nu hebben we code die het bord kan tekenen
 
 ## Truuk!
 
+> dit is uitleg over de code die je bij `## Bord maken` gaat gebruiken:
 om het bord aan te maken gaan we een truukje gebruiken.
 
 Ik heb een `path` gemaakt, dat pad gebruikt:
