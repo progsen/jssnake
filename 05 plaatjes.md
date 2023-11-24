@@ -3,6 +3,16 @@
 een spel zonder plaatjes kan er behoorlijk saai uitzien.
 Laten we daar een begin aan maken
 
+## downloaded 
+
+- download de volgende file:  
+> [gameimg.zip](./gameimg.zip)  
+- pak deze uit naar de directory:
+    - `m2flexjs/img`
+> ![](img/directory.PNG)  
+- dan ziet het er zo uit:
+> ![](img/nauitpakken.PNG)  
+
 ## laden
 
 om plaatjes te laden met javascript hebben we wat ingewikkelde code nodig
