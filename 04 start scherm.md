@@ -71,10 +71,11 @@ deze variabelen houden bij waar we in de game zijn, we beginnen met de start
 
 ## tekenen per gamestate
 
-we gaan nu functions maken voor elke gamestate, zie de volgende stap:
-- `gamestate_start=0;`
-- `gamestate_ingame=1;`
-- `gamestate_gameover=2;`
+> #### UITLEG
+> we gaan straks nu functions maken voor elke gamestate, zie de volgende stap:
+> - `gamestate_start=0;`
+> - `gamestate_ingame=1;`
+> - `gamestate_gameover=2;`
 
 </br>
 
