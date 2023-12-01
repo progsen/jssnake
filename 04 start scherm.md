@@ -34,6 +34,10 @@ hier maken we een rectangle en bewaren we die in een variable.
 
 Nu gaan we buttons maken. Dat worden rectangles (gemaakt met de `createRect` function)
 
+het resultaat wordt straks:
+> ![](img/buttonsresult.png)
+
+
 in de initGame gaan we 4 buttons maken gebruik het volgende code snippet:
 </br>![Alt text](img/buttonsmaken.PNG)
 - gebruik een loop van 0 TOT 4
