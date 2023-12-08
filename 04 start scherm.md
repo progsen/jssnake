@@ -52,7 +52,7 @@ in de `initGame` gaan we 4 buttons maken.
  button.playerAmount=i+1;
 ```
 - zorg dat de button in `playerAmountButtons` komt!
-       > - HINT elke array heeft een `.push()` function
+> - HINT elke array heeft een `.push()` function
 
 
 ```
