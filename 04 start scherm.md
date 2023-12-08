@@ -38,8 +38,9 @@ het resultaat wordt straks:
 > ![](img/buttonsresult.png)
 
 
-in de initGame gaan we 4 buttons maken gebruik het volgende code snippet:
+in de `initGame` gaan we 4 buttons maken gebruik het volgende code snippet:
 </br>![Alt text](img/buttonsmaken.PNG)
+- zet het snippet hierboven onder `createBoardPositions()` in je `initGame` function 
 - gebruik een loop van 0 TOT 4
 - vul de `???` in, maak gebruik van de `let i` van de loop
    - dit is een keer som:
