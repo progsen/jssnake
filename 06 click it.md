@@ -57,10 +57,13 @@ om te kijken of een punt (px,py) in een rectangle zit gebruiken we de volgende f
 
 - maak de `inRect` function:
 </br>![](img/inrect.PNG)
-- om de mouse coordinaten te krijgen, moeten we die aan het `mouseEvent` vragen:
-</br>![](img/mousecoords.PNG)
-- om te kijken of de mouse in de button clicked:
-</br>![](img/hitbutton.PNG)
+
+- ga naar je `canvasClicked` function
+    - doe het volgende daarin:
+        - om de mouse coordinaten te krijgen, moeten we die aan het `mouseEvent` vragen:
+            </br>![](img/mousecoords.PNG)
+        - om te kijken of de mouse in de button clicked:
+            </br>![](img/hitbutton.PNG)
 
 
 ## reageren op een button click
