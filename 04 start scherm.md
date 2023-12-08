@@ -47,12 +47,13 @@ in de `initGame` gaan we 4 buttons maken.
    - dit is een keer som:
       - `(i * 50)`
 - laat de buttons achter elkaar staan
-- zorg dat de button in `playerAmountButtons` komt!
-       > - HINT elke array heeft een `.push()` function
-- voeg ook de volgende regel toe:
+- voeg ook de volgende regel toe in de `for` onder je `let button`:
 ```
  button.playerAmount=i+1;
 ```
+- zorg dat de button in `playerAmountButtons` komt!
+       > - HINT elke array heeft een `.push()` function
+
 
 ```
 deze playerAmount waarde hebben we later nodig als we het spel gaan starten om te bepalen hoeveel spelers je moet maken
