@@ -42,6 +42,8 @@ in de initGame gaan we 4 buttons maken gebruik het volgende code snippet:
 </br>![Alt text](img/buttonsmaken.PNG)
 - gebruik een loop van 0 TOT 4
 - vul de `???` in, maak gebruik van de `let i` van de loop
+   - dit is een keer som:
+      - `(i * 50)`
 - laat de buttons achter elkaar staan
 - zorg dat de button in `playerAmountButtons` komt!
 - voeg ook de volgende regel toe:
