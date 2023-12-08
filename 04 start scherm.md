@@ -48,6 +48,7 @@ in de `initGame` gaan we 4 buttons maken.
       - `(i * 50)`
 - laat de buttons achter elkaar staan
 - zorg dat de button in `playerAmountButtons` komt!
+       > - HINT elke array heeft een `.push()` function
 - voeg ook de volgende regel toe:
 ```
  button.playerAmount=i+1;
