@@ -38,16 +38,22 @@ het resultaat wordt straks:
 > ![](img/buttonsresult.png)
 
 
-in de initGame gaan we 4 buttons maken gebruik het volgende code snippet:
-</br>![Alt text](img/buttonsmaken.PNG)
-- gebruik een loop van 0 TOT 4
+in de `initGame` gaan we 4 buttons maken.
+- maak een `for loop` die van `0` TOT `4` gaat
+     - doe dit onder `createBoardPositions()` in je `initGame` function 
+- zet de volgende code in je for `(tussen de {})`
+   </br>![Alt text](img/buttonsmaken.PNG)
 - vul de `???` in, maak gebruik van de `let i` van de loop
+   - dit is een keer som:
+      - `(i * 50)`
 - laat de buttons achter elkaar staan
-- zorg dat de button in `playerAmountButtons` komt!
-- voeg ook de volgende regel toe:
+- voeg ook de volgende regel toe in de `for` onder je `let button`:
 ```
  button.playerAmount=i+1;
 ```
+- zorg dat de button in `playerAmountButtons` komt!
+> - HINT elke array heeft een `.push()` function
+
 
 ```
 deze playerAmount waarde hebben we later nodig als we het spel gaan starten om te bepalen hoeveel spelers je moet maken

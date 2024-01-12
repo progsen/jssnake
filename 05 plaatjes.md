@@ -78,7 +78,7 @@ nu gaan we kijken naar wat we moeten aanroepen en in welke volgorde:
 
 maak het volgende:
 - onder in de file `callen` we nu `loadImages` in plaats van `initGame`
-- in `imageLoaded` `callen` we `initGame` en daarna `draw`
+- in `imagesLoaded` `callen` we `initGame` en daarna `draw`
 - de `draw` onderaan in de file, halen we weg.
 
 
