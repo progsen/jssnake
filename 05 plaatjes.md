@@ -67,7 +67,7 @@ Wow dat is behoorlijk wat code!
 - maak boven in de file een nieuwe variable:
 </br>![](img/imagesvar.PNG)
 
-- maak ook een function `imageLoaded`
+- maak ook een function `imagesLoaded`
 
 ```
 nu gaan we kijken naar wat we moeten aanroepen en in welke volgorde:
