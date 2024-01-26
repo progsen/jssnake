@@ -100,7 +100,7 @@ we hebben plaatjes voor een pionnen, laten we die proberen:
 - zorg ervoor dat de pion op het hokje getekend wordt (`volgorde is belangrijk`)
 
 ```
-zie je dat stuk "pawn"+i+".png"? TODODODODOD
+zie je dat stuk "pawn"+i+".png"? dat zorgt ervoor dat je 1 van de 4 pion plaatjes pakt (zie ook de images load code)
 ```
 
 ![](img/imagesresult.PNG)
